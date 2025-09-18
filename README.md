@@ -1,10 +1,13 @@
 # Lab 7 Together
 
 This repository contains the materials for Task 2 of lab 7.
+You will need to update the Jupyter Notebook as well as the CSV file.
+
+The instructions for the rest of the lab is copied below.
 
 ## Instructions for Students
 
-This lab is given in two parts: In Tak 1 you will need to work in your own repository. Then, in Task 2, you will work in a group repository. You need to complete both parts to pass this lab. 
+This lab is given in two parts: In Task 1 you will need to work in your own repository. Then, in Task 2, you will work in a group repository. You need to complete both parts to pass this lab. 
 
 If you have not already, you will need to set up Git on your computer. You can do the following:
 
