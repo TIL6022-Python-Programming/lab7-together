@@ -28,7 +28,7 @@ You may need to restart your computer for changes to take effect.
 
 ## Part 3
 
-- Go to [this](link) repository and clone the repository as before.
+- Go to [this](https://github.com/TIL6022-Python-Programming/lab7-together) repository and clone the repository as before.
 - Before you continue, you will need to create your own branch. NAME THIS BRANCH THE SAME AS YOUR GITHUB ACCOUNT USERNAME. You can find instructions [here](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-branch?view=vs-2022)
 - Work through the Jupyter Notebook.
 - `commit` your changes and `push` them back to your branch. 
