@@ -16,17 +16,17 @@ If you have not already, you will need to set up Git on your computer. You can d
 
 You may need to restart your computer for changes to take effect.
 
-## Task 1
+## Part 1
 
-- Following [these](https://learn.microsoft.com/en-us/visualstudio/version-control/git-clone-repository?view=vs-2022) instruction, `clone` your lab repository and select a place in your computer to store it. You do not need to create a new branch. 
--  Work through the Jupyter notebook in VS code. 
--  `commit` your changes and `push` them back to your repo. 
+- Following [these](https://learn.microsoft.com/en-us/visualstudio/version-control/git-clone-repository?view=vs-2022) instructions, `clone` your lab repository and select a place in your computer to store it. 
+- Do Task 1 in the Jupyter notebook.
+- Push your changes to your assignment repository (you do not need to do Task 2 yet).
+- Do Task 2 in the Jupyter notebook.  
 
 Congratulations, you now used Github in the 'intended' way. 
 
-## Task 2
 
-While using Github for your own work is nice, where Github really shines is when you have to collaborate with others. In this task you will do this by creating your own branch, making and then merging your changes. 
+## Part 2
 
 - Go to [this](link) repository and clone the repository as before.
 - Before you continue, you will need to create your own branch. NAME THIS BRANCH THE SAME AS YOUR GITHUB ACCOUNT USERNAME. You can find instructions [here](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-branch?view=vs-2022)
@@ -35,6 +35,12 @@ While using Github for your own work is nice, where Github really shines is when
 - Create a pull request to merge into main. You can find instructions [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
  
 When you are working in groups, you will often need to check each others code. You can do this by committing your changes to your branch and then make a pull request to merge into the main branch. Then, one of your groupmates can have a look at your code before approving it!
+
+### Passing Criteria
+- At least three out of the four questions correct.
+- Successfully push changes to Task 1 into your assignment repository.
+- Successfully clone and create a branch of the group repository, make changes and merge them to the original branch.
+- Successfully clone and create a branch of the repository in task 2, and make changes, push and create a merge request.
 
 
 > [!WARNING]
